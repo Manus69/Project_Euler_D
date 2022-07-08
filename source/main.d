@@ -4,11 +4,9 @@ import source.defaults;
 import source.heap;
 import source.lib;
 
-import source.e87;
+import source.e92;
 
 void main()
 {
-    e87();
-    // auto p = PrimesUpTo(1_000_000);
-    // writeln(p.length);
+    e92();   
 }
